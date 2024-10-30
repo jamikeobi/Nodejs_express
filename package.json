@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_with_express",
+  "version": "1.0.0",
+  "description": "Learning express js with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamike Obikwelu (Odogwu)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
